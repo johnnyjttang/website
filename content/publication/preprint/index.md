@@ -1,12 +1,12 @@
 ---
-title: "Individual Heterogeneity and Cultural Attitudes in Credence Goods Provision"
+title: "An example preprint / working paper"
 authors:
 - admin
-date: "2020-07-01T00:00:00Z"
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,13 +15,13 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "European Economic Review"
-publication_short: "EER"
+publication: ""
+publication_short: ""
 
-abstract: I study the heterogeneity of credence goods provision in taxi drivers taking detours in New York City. First, I document that there is significant detouring on average by drivers. Second, there is significant heterogeneity in cheating across individuals, yet each individual’s propensity to take detours is stable: drivers who detour almost always detour, while those who do not detour almost never do. Drivers who take longer detours on each trip also take such trips more often. Third, cultural attitudes plausibly explain some of this heterogeneity in behavior across individuals.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Individuals in real-world settings exhibit substantial heterogeneity in over-provision of services under moral hazard.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
