@@ -15,7 +15,7 @@ role: Economics PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Harvard
-  url: ""
+  url: "scholar.harvard.edu/johnnytang"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on corporate and household finance and behavioral economics.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD Economics
     institution: Harvard
-    year: 2024 (expected
+    year: 2024 (expected)
   - course: AB Applied Math
     institution: Harvard
     year: 2018
