@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Taxi"
 authors:
 - admin
 - Robert Ford
